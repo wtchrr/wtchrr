@@ -1,0 +1,2 @@
+- hey wtchr here
+- i'm interested in coding with python,c and Assembly
